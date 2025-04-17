@@ -37,7 +37,7 @@ Download the node modules in each working directory using **npm install**
 
 Push this codebase to the created ec2 instance and run the same command as mentioned above in the working directory of folder
 
-> In ec2, you can not directly run an application on PORT 80. Make sure to Setup an Nginx Reverse Proxy for running the frontend-service. (Refer [AWS Docs](https://aws.amazon.com/tutorials/setup-an-nginx-reverse-proxy/) [Stackoverflow](https://stackoverflow.com/questions/17413526/nginx-missing-sites-available-directory))
+> In ec2, you can not directly run an application on PORT 80. Make sure to Setup an Nginx Reverse Proxy for running the frontend-service. (Refer [AWS Docs](https://aws.amazon.com/tutorials/setup-an-nginx-reverse-proxy/))
 
 
 -------
